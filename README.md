@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on front-end development
 - 🌱 I’m currently learning Web Development and Blockchain Development
 - 📫 How to reach me: borcatudor@gmail.com
-- ⚡ Fun fact: I like to take part in Hackathons and I am into Bioinformatics and Robotics too :)
+- ⚡ Fun fact: I like to take part in Hackathons and I am into Bioinformatics 🧬 and Robotics 🤖 too
