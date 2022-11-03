@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working as a Frontend Developer
+- 🌱 I’m currently learning competitive programming
 - 📫 How to reach me: borcatudor@gmail.com
