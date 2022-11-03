@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning Web Development and Blockchain Development
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: borcatudor@gmail.com
