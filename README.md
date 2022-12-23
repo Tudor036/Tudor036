@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Frontend Developer
-- 🌱 I’m currently learning competitive programming
-- 📫 How to reach me: borcatudor@gmail.com
+- 🔭 I’m currently working as a Fullstack Developer
+- 🌱 I’m currently improving my algorithmic thinking
+- 📫 Let's get in touch, contact me at borcatudor.dev@gmail.com
