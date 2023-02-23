@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Fullstack Developer
-- 🌱 I’m currently improving my algorithmic thinking
 - 👯 I’m looking to collaborate on projects that need Web/Mobile Applications
 - 📫 Let's get in touch, contact me at borcatudor.dev@gmail.com
